@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">bd7438b5-efc9-42c4-8f65-a6641cd220b0</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd7438b5-efc9-42c4-8f65-a6641cd220b0</dc:identifier>
+        <dc:title>Performance analysis of the water-injected centrifugal vapor compressor</dc:title>
+        <dc:creator opf:file-as="Yin, Haoyu &amp; Wu, Hong &amp; Li, Yulong &amp; Quan, Jin" opf:role="aut">Haoyu Yin</dc:creator>
+        <dc:creator opf:file-as="Yin, Haoyu &amp; Wu, Hong &amp; Li, Yulong &amp; Quan, Jin" opf:role="aut">Hong Wu</dc:creator>
+        <dc:creator opf:file-as="Yin, Haoyu &amp; Wu, Hong &amp; Li, Yulong &amp; Quan, Jin" opf:role="aut">Yulong Li</dc:creator>
+        <dc:creator opf:file-as="Yin, Haoyu &amp; Wu, Hong &amp; Li, Yulong &amp; Quan, Jin" opf:role="aut">Jin Quan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Energy, 200 (2020) 117538. doi:10.1016/j.energy.2020.117538</dc:description>
+        <dc:publisher>Elsevier Ltd</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>Mechanical vapor recompression</dc:subject>
+        <dc:subject>Water vapor compression</dc:subject>
+        <dc:subject>Heat transfer</dc:subject>
+        <dc:subject>Mass transfer</dc:subject>
+        <dc:subject>Two-phase flow</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
